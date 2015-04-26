@@ -30,7 +30,7 @@ public class CalculatorGui implements ActionListener {
 		label = new JLabel();
 		label.setText("Enter two numbers");
 		output = new JLabel();
-		output.setText("-----");
+		output.setText("0.0");
 		label.setForeground(Color.RED);
 		output.setForeground(Color.RED);
 		
