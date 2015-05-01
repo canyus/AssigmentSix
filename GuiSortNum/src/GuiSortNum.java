@@ -124,7 +124,7 @@ public class GuiSortNum implements ActionListener   {
     	  output8.setText(String.valueOf(numList[8]));
     	  output9.setText(String.valueOf(numList[9]));
       }
-         public static void main(String[] args)
-         {   new GuiSortNum(); }
+         //public static void main(String[] args)
+        // {   new GuiSortNum(); }
    }
       
